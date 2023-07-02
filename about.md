@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: О нас
 permalink: /about/
 ---
 
-Some information about you!
+Молодая быстроразвивающаяся компания с креслами-мешками и пинг-понг играй
 
-### More Information
+### Еще больше информации о нас
 
-A place to include any other types of information that you'd like to include about yourself.
+Мы работаем пока вы солнечные ванны принимай и диско танцуй
 
-### Contact me
+### Пишите на почту
 
 [email@domain.com](mailto:email@domain.com)
