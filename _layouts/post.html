@@ -23,7 +23,15 @@ AnyComment = window.AnyComment || []; AnyComment.Comments = [];
 AnyComment.Comments.push({
     "root": "anycomment-app",
     "app_id": 5642,
-    "language": "ru"
+    "language": "ru",
+	"ssoProvider": {
+        title: "My App",
+        loginUrl: "https://example.com/login",
+        logoUrl: "https://example.com/my-app-logo.jpg",
+        width: 30,
+        height: 30,
+        openModal: true,
+    }
 })
 var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
 s.src = "https://widget.anycomment.io/comment/embed.js";
